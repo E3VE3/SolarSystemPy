@@ -1,3 +1,10 @@
+#Copyright © 2026 Ever Ivan Martinez Villegas
+#All rights reserved.
+#This project, including its source code, visual assets, simulations, videos, documentation, and related materials, 
+#is the intellectual property of Ever Ivan Martinez Villegas.
+#You may view this repository for educational, portfolio, and demonstration purposes only. 
+#You may not copy, modify, distribute, publish, sublicense, or use this work in another project without written permission from the copyright owner.
+
 import pygame
 import math
 
